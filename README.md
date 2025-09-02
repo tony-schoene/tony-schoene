@@ -1,16 +1,23 @@
-## Hi there 👋
+## console.info("hello world")
 
-<!--
-**tony-schoene/tony-schoene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Exploring the world of cloud-native web development.
 
-Here are some ideas to get you started:
+#### 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,nodejs,azure&theme=light" alt="Angular, Node.js, Azure" />
+</p>
+
+#### 📝 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,typescript&theme=light" alt="HTML, CSS, TypeScript" />
+<p>
+
+#### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,npm,github&theme=light" alt="Visual Studio Code, NPM, GitHub" />
+<p>
+
+Thanks for visiting, keep coding & be kind! 😄
