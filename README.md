@@ -1,8 +1,19 @@
-## Hi there 👋
+### Hello world! 🌎
+
+I'm still grinding cloud-native web development. 🚀
+
+### 🛠️ Technologies
+
+##### Stack
+<p><img src="https://skillicons.dev/icons?i=angular,nodejs,azure" /></p>
+
+##### Languages
+<p><img src="https://skillicons.dev/icons?i=html,css,typescript" /><p>
+
+##### Tools
+<p><img src="https://skillicons.dev/icons?i=vscode,npm,github" /><p>
 
 <!--
-**tony-schoene/tony-schoene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
